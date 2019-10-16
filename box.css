@@ -28,12 +28,42 @@ width: 80%;
 background-color: red;
 height: 70%;
 width: 80%;
+display: flex;
 
 
 
 }
+#menu {
+
+background-color:yellow;
+height: 100%;
+width: 20%;
+}
+
+#artikel {
+
+background-color: green;
+height: 100%;
+width: 50%;
 
 
+
+}
+#plaatjes {
+
+background-color:black;
+height: 100%;
+width: 30%;
+}
+.boodschap{
+    background-color: purple;
+    border :10px solid black;
+    border-radius: 20px;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 20px;
+    padding: 12px;
+}
 
 
 
