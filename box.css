@@ -46,18 +46,15 @@ width: 15%;
 
 background-color:indianred;
 height: 100%;
-width: 60%;
+width: 95%;
 
 
 
 }
-#plaatjes {
 
-background-color:lightcoral;
-height: 100%;
-width: 35%;
 
-}
+
+
 .boodschap{
     background-color: red;
     border : 10px solid rgb(204, 0, 0);
@@ -79,7 +76,13 @@ font-family: Sans-serif;
 
 
 }
+h2{
+font-family: Sans-serif;
+font-size: 50px;
+margin-top: 0;
 
+
+}
 
 
 
